@@ -35,6 +35,7 @@ Los brazos robóticos se pueden clasificar de acuerdo con el número de "articul
 **RESULTADOS**
 
 + Abra para ver los resultados del brazo 
+
 <a href="https://1drv.ms/u/s!Aizy46b43Ozzgk9h0-hKleCeObHm"><img src="https://1drv.ms/u/s!Aizy46b43Ozzgk9h0-hKleCeObHm" /></a>
 
 
